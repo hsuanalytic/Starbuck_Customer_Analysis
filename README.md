@@ -5,9 +5,9 @@ The project aims to analyze customer behavior and optimize Starbucks ads promoti
 
 ## Dataset ##
 The project utilizes a dataset obtained from [Starbucks Customer Data | Kaggle](https://www.kaggle.com/datasets/ihormuliar/starbucks-customer-data). The dataset consists of customer data, transaction records, and promotional offer information from Starbucks. It includes the following files:
-- portfolio.csv: Contains information about various promotional offers provided by Starbucks
-- profile.csv: Provides demographic information of Starbucks customers
-- transcript.csv: Contains transaction records and interactions related to promotional offers
+- __portfolio.csv__: Contains information about various promotional offers provided by Starbucks
+- __profile.csv__: Provides demographic information of Starbucks customers
+- __transcript.csv__: Contains transaction records and interactions related to promotional offers
 
 ## Technologies Used ##
 
